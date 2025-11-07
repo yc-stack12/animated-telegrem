@@ -1,0 +1,45 @@
+{
+  "modpackName": "",
+  "automodpackVersion": "4.0.0-beta44",
+  "loader": "forge",
+  "loaderVersion": "47.2.21",
+  "mcVersion": "1.20.1",
+  "list": [
+    {
+      "file": "/mods/Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+      "size": "1723029",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "1f23df114da3a8603dbe4781c07e8acf20f6d1ce",
+      "murmur": "916576203"
+    },
+    {
+      "file": "/mods/jei-1.20.1-forge-15.20.0.117.jar",
+      "size": "1408016",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "36fd41cd0b9646409b8942228e268dda520ee3e9",
+      "murmur": "3973679917"
+    },
+    {
+      "file": "/mods/XaerosWorldMap_1.39.12_Forge_1.20.jar",
+      "size": "960799",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "3c4005a400ba8270738bbe4c573526749ecf2f8f",
+      "murmur": "3696490833"
+    },
+    {
+      "file": "/mods/geckolib-forge-1.20.1-4.8.2.jar",
+      "size": "1038979",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "395a9f21a36dc8466d67c2af67a904e7013460d1",
+      "murmur": "1555934041"
+    }
+  ]
+}
